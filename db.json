@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "09ae",
+      "fname": "abc",
+      "Lname": "abc",
+      "email": "abc123@gmail.com",
+      "city": "india",
+      "phone": "1234567890",
+      "password": "123456",
+      "cpassword": "123456"
+    }
+  ]
+}
